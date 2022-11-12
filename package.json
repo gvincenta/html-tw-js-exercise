@@ -1,0 +1,11 @@
+{
+  "name": "html-tw-js-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gvincenta/html-tw-js-exercise.git",
+  "author": "Gilbert Vincenta <gilbert11323@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "run-ts" : "ts-node ./sample.ts"
+  }
+}
